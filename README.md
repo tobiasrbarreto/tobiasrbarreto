@@ -1,6 +1,9 @@
 ## Tobias Barreto
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasrbarreto&show_icons=true&theme=github_dark_dimmed)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasrbarreto&show_icons=true&theme=github_dark_dimmed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasrbarreto&show_icons=true&theme=github_dark_dimmed" />
+</a>
+
 <!--
 Tutorial:
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-stats-card
