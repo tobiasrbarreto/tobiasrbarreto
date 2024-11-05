@@ -8,8 +8,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#github-
 -->
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Powerbi" height="30" width="30" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="30" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/> 
 </div>
 
